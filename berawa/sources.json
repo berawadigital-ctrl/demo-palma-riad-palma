@@ -1,0 +1,66 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://palmariad.com/",
+ "read_at": "2026-10-29T11:06:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://palmariad.com/",
+   "sha256": "36e1e6df4b88a105ca74ed2120896b2189e42ded15627293ff0d7c2916bac04a",
+   "chars": 963
+  },
+  {
+   "url": "https://palmariad.com/cocktail-bar/",
+   "sha256": "2c58c3082ca83074a8878ad40b2b63c6ece03c679dff0062650136a66a45f17f",
+   "chars": 1288
+  },
+  {
+   "url": "https://palmariad.com/contact-location/",
+   "sha256": "bd8441b3aebfd4d3ae8fce4cbfe27c725b606d81d30a85bb5fb476011e7cac46",
+   "chars": 2229
+  },
+  {
+   "url": "https://palmariad.com/faqs/",
+   "sha256": "6ab56c4b798f67942986f8ef902380430d4e2eaa0a8234ee73ff0621a39ffa5f",
+   "chars": 5612
+  },
+  {
+   "url": "https://palmariad.com/legal/",
+   "sha256": "5f676aa0e40e6a7763572d65512a2febcee35db5ebf1a195ee840b17e3bfdf33",
+   "chars": 18973
+  },
+  {
+   "url": "https://palmariad.com/suite-alhambra/",
+   "sha256": "5d73853a34b704184d19107a7b2f25cf0e78971380b5d6746a54ba6ded427384",
+   "chars": 1751
+  },
+  {
+   "url": "https://palmariad.com/suite-sultan/",
+   "sha256": "73a4ab2b414f5eb9b3b6bf3d3c9f3e2ed4c2cf3d0678dae31876563a9c61b214",
+   "chars": 1919
+  },
+  {
+   "url": "https://palmariad.com/the-riad/",
+   "sha256": "66d8b2e43b99f5b6fde7081922a24db40c59e82132808ddce0f2256da3a98d87",
+   "chars": 3095
+  }
+ ],
+ "other_pages_read": [
+  "https://palmariad.com/ar/",
+  "https://palmariad.com/de/",
+  "https://palmariad.com/es/",
+  "https://palmariad.com/es/el-riad/",
+  "https://palmariad.com/es/faqs/",
+  "https://palmariad.com/gallery/",
+  "https://palmariad.com/suite-asilah/",
+  "https://palmariad.com/suite-essaouira/",
+  "https://palmariad.com/suite-hammam/",
+  "https://palmariad.com/suite-kabila/",
+  "https://palmariad.com/suite-marrakech/",
+  "https://palmariad.com/suite-medina/",
+  "https://palmariad.com/suite-persia/",
+  "https://palmariad.com/suite-sherezade/",
+  "https://palmariad.com/suite-yasmine/",
+  "https://palmariad.com/suites/"
+ ]
+}

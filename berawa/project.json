@@ -1,0 +1,70 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-palma-riad-palma",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T11:05:00+01:00",
+ "updated_at": "2026-10-29T11:15:00+01:00",
+ "business": {
+  "name": "Palma Riad",
+  "legal_name": "Comercial Ramis, S.L.",
+  "registry_ids": [
+   "CIF B07041783",
+   "Registro Mercantil de Palma hoja PM-7151",
+   "Registro turístico H/3019"
+  ],
+  "url": "https://palmariad.com/",
+  "domain": "palmariad.com",
+  "municipality": "Palma",
+  "province": "Illes Balears",
+  "address": "Carrer de Sant Jaume, 5 · 07012 Palma",
+  "phones": [
+   "+34 871 871 210"
+  ],
+  "emails": [
+   "reservations@palmariad.com"
+  ],
+  "sector": "hotel boutique de 5 estrellas solo para adultos en el centro de Palma"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web, direccion)",
+  "url": "https://www.google.com/maps/place/Palma+Riad/@39.572062,2.6472883,17z/data=!4m9!3m8!1s0x1297925aed86c1f3:0xc86bae52c8b42794!5m2!4m1!1i2!8m2!3d39.572062!4d2.6472883!16s%2Fg%2F11rc4my1ht",
+  "date": "2026-10-29T10:36:12+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://reservations.palmariad.com/palmariad.com/es/availability",
+   "ca": "https://reservations.palmariad.com/palmariad.com/es/availability",
+   "en": "https://reservations.palmariad.com/palmariad.com/en/availability",
+   "fr": "https://reservations.palmariad.com/palmariad.com/en/availability"
+  },
+  "note": "Las reservas van al motor de reservas real del hotel (reservations.palmariad.com, enlazado desde el boton «Book/Reservar» de su web); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://palmariad.com/",
+  "date": "2026-10-29T11:05:18+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

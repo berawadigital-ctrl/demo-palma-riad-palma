@@ -1,0 +1,630 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-palma-riad-palma",
+ "source_site": "https://palmariad.com/",
+ "source_read_at": "2026-10-29T11:06:00+01:00",
+ "note": "Respuestas solo con datos publicados en palmariad.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "suites",
+   "keys": {
+    "es": [
+     "que suites",
+     "cuantas suites",
+     "tipos de suite",
+     "habitaciones"
+    ],
+    "ca": [
+     "quines suites",
+     "quantes suites",
+     "tipus de suite",
+     "habitacions"
+    ],
+    "en": [
+     "what suites",
+     "which suites",
+     "how many suites",
+     "rooms"
+    ],
+    "fr": [
+     "quelles suites",
+     "combien de suites",
+     "chambres"
+    ]
+   },
+   "a": {
+    "es": "Tiene 11 suites, cada una única: Alhambra, Yasmine, Essaouira, Sultán, Asilah, Sherezade, Persia, Hammam, Kabila, Marrakech y Medina. Casi todas son para hasta 2 personas; la Sultán admite hasta 4.",
+    "ca": "Té 11 suites, cadascuna única: Alhambra, Yasmine, Essaouira, Sultán, Asilah, Sherezade, Persia, Hammam, Kabila, Marrakech i Medina. Gairebé totes són per a fins a 2 persones; la Sultán n'admet fins a 4.",
+    "en": "It has 11 suites, each one unique: Alhambra, Yasmine, Essaouira, Sultán, Asilah, Sherezade, Persia, Hammam, Kabila, Marrakech and Medina. Almost all are for up to 2 people; the Sultán takes up to 4.",
+    "fr": "Il compte 11 suites, toutes uniques : Alhambra, Yasmine, Essaouira, Sultán, Asilah, Sherezade, Persia, Hammam, Kabila, Marrakech et Medina. Presque toutes accueillent 2 personnes maximum ; la Sultán jusqu'à 4."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/the-riad/",
+     "quote": "5 stars and only adults hotel consists of 11 suites, each of them unique and original."
+    },
+    {
+     "url": "https://palmariad.com/",
+     "quote": "Suite Alhambra Suite Yasmine Suite Essaouira Suite Sultán Suite Asilah Suite Sherezade Suite Persia Suite Hammam Suite Kabila Suite Marrakech Suite Medina"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "For up to 2 people"
+    },
+    {
+     "url": "https://palmariad.com/suite-sultan/",
+     "quote": "For up to 4 people"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "suite Sultán",
+   "keys": {
+    "es": [
+     "mas grande",
+     "sultan",
+     "4 personas",
+     "cuatro personas"
+    ],
+    "ca": [
+     "mes gran",
+     "sultan",
+     "4 persones",
+     "quatre persones"
+    ],
+    "en": [
+     "largest",
+     "biggest",
+     "sultan",
+     "4 people",
+     "four people"
+    ],
+    "fr": [
+     "plus grande",
+     "sultan",
+     "4 personnes",
+     "quatre personnes"
+    ]
+   },
+   "a": {
+    "es": "La Suite Sultán: 70 m², salón separado del dormitorio principal, para hasta 4 adultos, con cama king size extragrande de 2,80 × 2,10 m y maxi bar.",
+    "ca": "La Suite Sultán: 70 m², saló separat del dormitori principal, per a fins a 4 adults, amb llit king size extragran de 2,80 × 2,10 m i maxi bar.",
+    "en": "The Sultán Suite: 70 m², a living room separate from the main bedroom, for up to 4 adults, with an extra-large 2,80 × 2,10 m king size bed and a maxi bar.",
+    "fr": "La Suite Sultán : 70 m², salon séparé de la chambre principale, jusqu'à 4 adultes, avec un très grand lit king size de 2,80 × 2,10 m et un maxi bar."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/suite-sultan/",
+     "quote": "The jewel of the crown, our 70 sqm suite with separate living-room from main bedroom. Room set up for up to 4 adults provides extra large king size bed 2,80 x 2,10 m. Maxi bar in the living-room."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun"
+    ],
+    "ca": [
+     "esmorz"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit dejeuner"
+    ]
+   },
+   "a": {
+    "es": "Sí: el desayuno siempre está incluido en la reserva. Se sirve de lunes a domingo de 8:00 a 11:30. Si sales muy temprano, puedes pedir un desayuno temprano antes de las 8 de la tarde del día anterior.",
+    "ca": "Sí: l'esmorzar sempre està inclòs a la reserva. Se serveix de dilluns a diumenge de 8:00 a 11:30. Si marxes molt d'hora, pots demanar un esmorzar d'hora abans de les 8 del vespre del dia anterior.",
+    "en": "Yes: breakfast is always included in your booking. It is served Monday to Sunday from 8:00 AM to 11:30 AM. If you leave very early, you can request an early breakfast before 8 pm the day before.",
+    "fr": "Oui : le petit-déjeuner est toujours inclus dans la réservation. Il est servi du lundi au dimanche de 8 h à 11 h 30. Si vous partez très tôt, demandez un petit-déjeuner matinal avant 8 h du soir la veille."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "your breakfast will always be included in your accommodation reservation at Palma Riad"
+    },
+    {
+     "url": "https://palmariad.com/cocktail-bar/",
+     "quote": "Breakfast hours: Monday to Sunday: 8:00 AM to 11:30 AM"
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "We will be happy to offer an early breakfast to those clients who request it before 8pm the day before their departure"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcamiento",
+     "aparcar",
+     "garaje"
+    ],
+    "ca": [
+     "parquing",
+     "parking",
+     "aparcament",
+     "aparcar"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "park my car"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garer"
+    ]
+   },
+   "a": {
+    "es": "El hotel no tiene parking. Recomienda el parking Vía Roma o el de Antoni Maura, a unos 400 metros, o el de Paseo Mallorca, a unos 500 metros; abren 24 horas y son de pago.",
+    "ca": "L'hotel no té pàrquing. Recomana el pàrquing Vía Roma o el d'Antoni Maura, a uns 400 metres, o el del Passeig Mallorca, a uns 500 metres; obren 24 hores i són de pagament.",
+    "en": "The hotel has no parking. It recommends the Vía Roma or Antoni Maura car parks, about 400 metres away, or the Paseo Mallorca car park, about 500 metres away; they are open 24 hours and charge a fee.",
+    "fr": "L'hôtel n'a pas de parking. Il recommande les parkings Vía Roma ou Antoni Maura, à environ 400 mètres, ou celui du Paseo Mallorca, à environ 500 mètres ; ouverts 24 h/24 et payants."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "We do not have parking at the hotel"
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "you can park it in the Vía Roma Parking just 400 meters from the hotel or another Parking called Antoni Maura just 400 meters away or even you could park in Paseo Mallorca Parking around 500 meters from the hotel"
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "These car parks are open 24 hours a day"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "solo adultos",
+   "keys": {
+    "es": [
+     "ninos",
+     "nino",
+     "hijos",
+     "solo adultos",
+     "cama supletoria",
+     "cama extra"
+    ],
+    "ca": [
+     "nens",
+     "fills",
+     "nomes adults",
+     "llit supletori"
+    ],
+    "en": [
+     "children",
+     "kids",
+     "adults only",
+     "extra bed"
+    ],
+    "fr": [
+     "enfants",
+     "adultes uniquement",
+     "lit supplementaire",
+     "lit d appoint"
+    ]
+   },
+   "a": {
+    "es": "Es un hotel solo para adultos, así que no es para venir con niños. Tampoco ofrece camas supletorias en ninguna suite.",
+    "ca": "És un hotel només per a adults, així que no és per venir amb nens. Tampoc no ofereix llits supletoris a cap suite.",
+    "en": "It is an adults-only hotel, so it is not suitable for children. It also does not offer extra beds in any suite.",
+    "fr": "C'est un hôtel réservé aux adultes, il ne convient donc pas aux enfants. Il ne propose pas non plus de lit supplémentaire dans les suites."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/the-riad/",
+     "quote": "5 stars and only adults hotel"
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "Children seem to us to be adorable beings but it is quite true that to fully enjoy a Riad experience they are not the most appropriate company."
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "not to offer the possibility of an extra bed in any of our rooms"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "como llegar",
+     "aeropuerto",
+     "taxi"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "com arribar",
+     "aeroport",
+     "taxi"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "how to get",
+     "airport",
+     "taxi"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "comment venir",
+     "aeroport",
+     "taxi"
+    ]
+   },
+   "a": {
+    "es": "Está en Carrer de Sant Jaume, 5, 07012 Palma, en la zona cero de la ciudad, a pocos pasos de los principales puntos de interés. Desde el aeropuerto puedes ir en taxi (hay parada a la salida) o pedir al hotel un traslado privado.",
+    "ca": "És al carrer de Sant Jaume, 5, 07012 Palma, a la zona zero de la ciutat, a poques passes dels principals punts d'interès. Des de l'aeroport pots anar-hi en taxi (hi ha parada a la sortida) o demanar a l'hotel un trasllat privat.",
+    "en": "It is at Carrer de Sant Jaume, 5, 07012 Palma, in the city's zero zone, a few steps from the main sights. From the airport you can take a taxi (there is a rank at the exit) or ask the hotel to arrange a private transfer.",
+    "fr": "Il se trouve Carrer de Sant Jaume, 5, 07012 Palma, en plein centre, à quelques pas des principaux sites. Depuis l'aéroport, prenez un taxi (station à la sortie) ou demandez à l'hôtel un transfert privé."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/contact-location/",
+     "quote": "Carrer de Sant Jaume 5, 07012 Palma, Illes Balears"
+    },
+    {
+     "url": "https://palmariad.com/the-riad/",
+     "quote": "This exotic hotel is located in Palma’s zero zone."
+    },
+    {
+     "url": "https://palmariad.com/contact-location/",
+     "quote": "You will find a taxi station upon the aeroport exit."
+    },
+    {
+     "url": "https://palmariad.com/contact-location/",
+     "quote": "please do not hesitate to contact us in order to arrange it for you with our transfer partner company"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "cocktail bar",
+   "keys": {
+    "es": [
+     "cocktail",
+     "coctel",
+     "copa",
+     " bar "
+    ],
+    "ca": [
+     "cocktail",
+     "coctel",
+     "copa",
+     " bar "
+    ],
+    "en": [
+     "cocktail",
+     " bar "
+    ],
+    "fr": [
+     "cocktail",
+     " bar "
+    ]
+   },
+   "a": {
+    "es": "Sí: el Palma Riad Cocktail Bar abre de lunes a domingo de 18:00 a 1:00, con cócteles que combinan tradición y vanguardia.",
+    "ca": "Sí: el Palma Riad Cocktail Bar obre de dilluns a diumenge de 18:00 a 1:00, amb còctels que combinen tradició i avantguarda.",
+    "en": "Yes: the Palma Riad Cocktail Bar opens Monday to Sunday from 6:00 PM to 1:00 AM, with creations that combine tradition and avant-garde.",
+    "fr": "Oui : le Palma Riad Cocktail Bar est ouvert du lundi au dimanche de 18 h à 1 h, avec des créations entre tradition et avant-garde."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/cocktail-bar/",
+     "quote": "Cocktail hours: Monday to Sunday: 6:00 PM to 1:00 AM"
+    },
+    {
+     "url": "https://palmariad.com/cocktail-bar/",
+     "quote": "unique creations that combine tradition and avant-garde in every sip"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tiene la suite",
+     "equipamiento",
+     "nespresso",
+     "minibar",
+     "wifi",
+     "servicios",
+     "aire acondicionado",
+     "solarium"
+    ],
+    "ca": [
+     "te la suite",
+     "equipament",
+     "nespresso",
+     "minibar",
+     "wifi",
+     "serveis",
+     "aire condicionat",
+     "solarium"
+    ],
+    "en": [
+     "suite include",
+     "equipment",
+     "nespresso",
+     "minibar",
+     "wifi",
+     "services",
+     "air condition",
+     "solarium"
+    ],
+    "fr": [
+     "dans la suite",
+     "equipement",
+     "nespresso",
+     "minibar",
+     "wifi",
+     "services",
+     "climatisation",
+     "solarium"
+    ]
+   },
+   "a": {
+    "es": "Las suites tienen cama king size de 2,00 × 2,10 m, sábanas de algodón egipcio, cafetera Nespresso, minibar gourmet, aire acondicionado y calefacción, wifi de alta velocidad, Smart TV, caja fuerte, amenities Molton Brown y son insonorizadas. El hotel tiene bar y solárium con tumbonas.",
+    "ca": "Les suites tenen llit king size de 2,00 × 2,10 m, llençols de cotó egipci, cafetera Nespresso, minibar gurmet, aire condicionat i calefacció, wifi d'alta velocitat, Smart TV, caixa forta, amenities Molton Brown i són insonoritzades. L'hotel té bar i solàrium amb gandules.",
+    "en": "The suites have a 2,00 × 2,10 m king size bed, Egyptian cotton sheets, a Nespresso machine, a gourmet minibar, air conditioning and heating, high-speed wifi, a Smart TV, a safe and Molton Brown amenities, and they are soundproof. The hotel has a bar and a solarium with sun loungers.",
+    "fr": "Les suites ont un lit king size de 2,00 × 2,10 m, des draps en coton égyptien, une machine Nespresso, un minibar gourmet, la climatisation et le chauffage, le wifi haut débit, une Smart TV, un coffre-fort et des produits Molton Brown, et sont insonorisées. L'hôtel a un bar et un solarium avec transats."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "King size bed 2,00 x 2,10 m"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Egyptian cotton sheets · Coffee machine Nespresso capsules Air conditioned · Heating"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Gourmet minibar"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Wifi network High speed wifi Safety box"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Toilet amenities Molton Brown brand"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Soundproof room"
+    },
+    {
+     "url": "https://palmariad.com/suite-alhambra/",
+     "quote": "Smart TV"
+    },
+    {
+     "url": "https://palmariad.com/the-riad/",
+     "quote": "Bar · Solarium with sunlounges"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "entrada y salida",
+   "keys": {
+    "es": [
+     "hora es la entrada",
+     "entrada",
+     "salida",
+     "check in",
+     "check out"
+    ],
+    "ca": [
+     "entrada",
+     "sortida",
+     "check in",
+     "check out"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "checkout",
+     "arrival time"
+    ],
+    "fr": [
+     "arrivee",
+     "depart",
+     "check in",
+     "check out"
+    ]
+   },
+   "a": {
+    "es": "La entrada está garantizada a partir de las 3:00 de la tarde y la salida es a las 12:00. Si llegas antes, intentan tener la suite lista; si no, te guardan el equipaje. La salida tardía depende de la disponibilidad y tiene coste adicional según temporada.",
+    "ca": "L'entrada està garantida a partir de les 3:00 de la tarda i la sortida és a les 12:00. Si arribes abans, intenten tenir la suite a punt; si no, et guarden l'equipatge. La sortida tardana depèn de la disponibilitat i té cost addicional segons temporada.",
+    "en": "Check-in is guaranteed from 3:00 pm and check-out is at 12:00 pm. If you arrive earlier, they try to have your suite ready; otherwise they store your luggage. Late check-out depends on availability and has an extra cost depending on the season.",
+    "fr": "L'arrivée est garantie à partir de 3:00 de l'après-midi et le départ se fait à 12 h. Si vous arrivez plus tôt, l'équipe essaie d'avoir la suite prête ; sinon, elle garde vos bagages. Le départ tardif dépend des disponibilités et a un coût supplémentaire selon la saison."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "Check-in time is guaranteed from 3:00 pm in order to give time to our Guests leaving the hotel room in that same day cordially at 12:00 pm."
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "we will be happy to store your luggage until you could check-in your room"
+    },
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "Late departure will be associated with an extra cost depending on the season."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free suite",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 871 871 210 o escribir a reservations@palmariad.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 871 871 210 o escriure a reservations@palmariad.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 871 871 210 or email reservations@palmariad.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 871 871 210 ou écrire à reservations@palmariad.com. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/contact-location/",
+     "quote": "+34 871 871 210"
+    },
+    {
+     "url": "https://palmariad.com/contact-location/",
+     "quote": "reservations@palmariad.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "Sí, puedes venir con tu mascota si no pesa más de 7 kg. Tiene un suplemento; consulta el importe con el hotel.",
+    "ca": "Sí, pots venir amb la teva mascota si no pesa més de 7 kg. Té un suplement; consulta l'import amb l'hotel.",
+    "en": "Yes, you can come with your pet as long as it weighs no more than 7 kg. There is a supplement; check the amount with the hotel.",
+    "fr": "Oui, vous pouvez venir avec votre animal s'il ne dépasse pas 7 kg. Un supplément s'applique ; vérifiez le montant auprès de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/faqs/",
+     "quote": "you could visit us with your pet as long as it does not exceed 7 kgs. of weight"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que la web es de Comercial Ramis, S.L. (Hotel Palma Riad), CIF B07041783, con número de registro hotelero H/3019.",
+    "ca": "El seu avís legal indica que el web és de Comercial Ramis, S.L. (Hotel Palma Riad), CIF B07041783, amb número de registre hoteler H/3019.",
+    "en": "Its legal notice states that the website belongs to Comercial Ramis, S.L. (Hotel Palma Riad), CIF B07041783, hotel registration number H/3019.",
+    "fr": "Ses mentions légales indiquent que le site appartient à Comercial Ramis, S.L. (Hotel Palma Riad), CIF B07041783, numéro d'enregistrement hôtelier H/3019."
+   },
+   "sources": [
+    {
+     "url": "https://palmariad.com/legal/",
+     "quote": "The company that owns the website is COMERCIAL RAMIS, S.L. (HOTEL PALMA RIAD) with CIF B07041783"
+    },
+    {
+     "url": "https://palmariad.com/legal/",
+     "quote": "Hotel registration number: H/3019"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
